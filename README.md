@@ -1,0 +1,2 @@
+# E.mere
+ GDSC Solution Challenge 2023. According to a 2019 report by the United Nations Development Programme, Uganda loses approximately 30% of its food production to post-harvest losses, which amounts to over $4 billion in economic losses annually.To address this issue, We are creating a website that connects farmers with buyers in real-time, thereby reducing the amount of time that perishable goods sit on the shelves and increasing the likelihood that they will be sold and consumed.
